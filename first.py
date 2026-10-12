@@ -19,4 +19,4 @@ with sync_playwright() as p:
     browser1.close()
 
 
-    #device ko herera aaunu 
+    #device ko herera aaunu, codegen 
